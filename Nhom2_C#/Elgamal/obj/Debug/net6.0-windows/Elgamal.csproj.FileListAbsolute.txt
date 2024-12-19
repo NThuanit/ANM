@@ -1,0 +1,79 @@
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\bin\Debug\net6.0-windows\Elgamal.exe
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\bin\Debug\net6.0-windows\Elgamal.deps.json
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\bin\Debug\net6.0-windows\Elgamal.runtimeconfig.json
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\bin\Debug\net6.0-windows\Elgamal.dll
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\bin\Debug\net6.0-windows\Elgamal.pdb
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\App.g.cs
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal_MarkupCompile.cache
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal_MarkupCompile.lref
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.g.resources
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.AssemblyInfoInputs.cache
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.AssemblyInfo.cs
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.csproj.CoreCompileInputs.cache
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.dll
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\refint\Elgamal.dll
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.pdb
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.genruntimeconfig.cache
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\ref\Elgamal.dll
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\bin\Debug\net6.0-windows\Xceed.Document.NET5.dll
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\bin\Debug\net6.0-windows\Xceed.Words.NET5.dll
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.csproj.AssemblyReference.cache
+F:\Ky_6\ATTT\ChuongTrinh\Elgamal\obj\Debug\net6.0-windows\Elgamal.csproj.CopyComplete
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Elgamal.exe
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Elgamal.deps.json
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Elgamal.runtimeconfig.json
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Elgamal.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Elgamal.pdb
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Xceed.Document.NET5.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Xceed.Words.NET5.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.csproj.AssemblyReference.cache
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\App.g.cs
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal_MarkupCompile.cache
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal_MarkupCompile.lref
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.g.resources
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.AssemblyInfoInputs.cache
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.AssemblyInfo.cs
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.csproj.CoreCompileInputs.cache
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.csproj.Up2Date
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\refint\Elgamal.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.pdb
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\Elgamal.genruntimeconfig.cache
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\obj\Debug\net6.0-windows\ref\Elgamal.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\PdfSharp.Quality.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\PdfSharp.Snippets.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\PdfSharp.System.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\PdfSharp.WPFonts.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\PdfSharp.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.barcodes.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.forms.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.io.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.kernel.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.layout.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.pdfa.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.pdfua.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.sign.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.svg.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itext.commons.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+E:\Nguyễn Mạnh Cường\Đồ án\Elgamal\bin\Debug\net6.0-windows\itextsharp.dll

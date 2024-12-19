@@ -1,0 +1,60 @@
+E:\University\Semester 6\ATBMTT\Elgamal\bin\Debug\net8.0-windows\Elgamal.exe
+E:\University\Semester 6\ATBMTT\Elgamal\bin\Debug\net8.0-windows\Elgamal.deps.json
+E:\University\Semester 6\ATBMTT\Elgamal\bin\Debug\net8.0-windows\Elgamal.runtimeconfig.json
+E:\University\Semester 6\ATBMTT\Elgamal\bin\Debug\net8.0-windows\Elgamal.dll
+E:\University\Semester 6\ATBMTT\Elgamal\bin\Debug\net8.0-windows\Elgamal.pdb
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\App.g.cs
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal_MarkupCompile.cache
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal_MarkupCompile.lref
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\MainWindow.baml
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal.g.resources
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal.AssemblyInfoInputs.cache
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal.AssemblyInfo.cs
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal.csproj.CoreCompileInputs.cache
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal.dll
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\refint\Elgamal.dll
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal.pdb
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\Elgamal.genruntimeconfig.cache
+E:\University\Semester 6\ATBMTT\Elgamal\obj\Debug\net8.0-windows\ref\Elgamal.dll
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.exe
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.deps.json
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.runtimeconfig.json
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.dll
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.pdb
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal_MarkupCompile.cache
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal_MarkupCompile.lref
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.g.resources
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.dll
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\refint\Elgamal.dll
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.pdb
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\Elgamal\Elgamal\obj\Debug\net8.0-windows\ref\Elgamal.dll
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.exe
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.deps.json
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.runtimeconfig.json
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.dll
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\bin\Debug\net8.0-windows\Elgamal.pdb
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\App.g.cs
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal_MarkupCompile.cache
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal_MarkupCompile.lref
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\MainWindow.baml
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.g.resources
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.AssemblyInfoInputs.cache
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.AssemblyInfo.cs
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.csproj.CoreCompileInputs.cache
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.dll
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\refint\Elgamal.dll
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.pdb
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\Elgamal.genruntimeconfig.cache
+E:\University\Semester 6\ATBMTT\Elgamal\Elgamal\Elgamal\obj\Debug\net8.0-windows\ref\Elgamal.dll
