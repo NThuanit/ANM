@@ -1,0 +1,97 @@
+﻿<Window x:Class="Elgamal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elgamal"
+        mc:Ignorable="d"
+        Title="Mã hóa Elgamal" Height="620" Width="1130" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="730" Margin="10" VerticalAlignment="Top" Width="1160">
+            <TabItem Header="Mã hóa Elgamal">
+                <Grid Background="#FFE5E5E5" Margin="5">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10">
+                        <!-- GroupBox Tạo khóa Elgamal -->
+                        <GroupBox Header="Tạo khóa Elgamal" Width="350" Margin="5">
+                            <StackPanel Orientation="Vertical" Margin="10">
+                                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                                    <RadioButton Content="Tạo khóa tự động" x:Name="rd_td" Margin="30,0,0,10" Checked="rd_td_Checked" />
+                                    <RadioButton Content="Tạo khóa tùy chọn" x:Name="rd_tc" Margin="30,0,0,10" Checked="rd_tc_Checked" />
+                                </StackPanel>
+
+                                
+                                <!-- <Label Content="Khóa công khai (p,a,d)" FontWeight="Bold" Margin="0,10,0,5"/> -->
+                                <StackPanel Orientation="Horizontal" Margin="5,50,0,0">
+                                    <Label Content="Số Nguyên P:" FontWeight="Bold" Margin="10,10,0,5"/>
+                                    <TextBox x:Name="So_P" Width="180" Height="50" Margin="30,0,0,5" />
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="5,20,0,0">
+                                    <Label Content="Số A:" FontWeight="Bold" Margin="10,10,0,5"/>
+                                    <TextBox x:Name="So_A" Width="180" Height="50" Margin="80,0,0,5" />
+                                </StackPanel>
+                                
+                                <StackPanel Orientation="Horizontal" Margin="5,20,0,0">
+                                    <Label Content="Số D:" FontWeight="Bold" Margin="10,10,0,5"/>
+                                    <TextBox x:Name="So_D" Width="180" Height="50" Margin="80,0,0,5" />
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="5,20,0,0">
+                                    <Label Content="Số ngẫu nhiên k ="  FontWeight="Bold" Margin="0,10,0,5"/>
+                                    <TextBox x:Name="So_K" Width="180" Height="50" Margin="15,0,0,5" />
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="5,20,0,0">
+                                 <Button Name="bt_taoKhoa" Content="Tạo khóa ngẫu nhiên" Width="160" Height="30" Margin="80,30,0,5" Click="bt_taoKhoa_Click"/>
+                                 <!--<Button Name="bt_luuKhoa" Content="Lưu khóa " Width="100" Height="30" Margin="30,50,0,5" Click="bt_luuKhoa_Click"/>-->
+                                </StackPanel>
+                           
+                            </StackPanel>
+                        </GroupBox>
+
+                        <!-- GroupBox Mã Hóa -->
+                        <GroupBox Header="Mã Hóa" Width="350" Margin="5">
+                            <StackPanel Orientation="Vertical" Margin="10">
+                           
+                                <Label Content="(C1 = a^k mod p) C1 =" Margin="0,10,0,5"/>
+                                <TextBox x:Name="txt_So_C1" Width="180" Height="40" />
+                                <Label Content="(C2 = M*d^k mod p) C2 =" Margin="0,10,0,5"/>
+                                <TextBox x:Name="txt_So_C2" Width="180" Height="40" />
+                                
+                                <Label Content="Văn bản ký" FontWeight="Bold" Margin="0,0,0,5"/>
+                                <TextBox x:Name="txtBanRo" Width="180" Height="60" />
+                                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                                    <Button x:Name="btOpen" Content="chọn" Width="100" Height="30" Margin="40,10,0,5" />
+                                    <Button x:Name="btMaHoa" Content="Ký" Width="100" Height="30" Margin="40,10,0,5" />
+                                </StackPanel>
+                                <Label Content="Chữ ký :" FontWeight="Bold" Margin="0,10,0,5"/>
+                                <TextBox x:Name="txt_maHoaBanRo" Width="180" Height="60" />
+                                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                                    <Button x:Name="btFile" Content="Lưu chữ ký" Width="120" Height="30" Margin="30,10,0,5" />
+                                    <Button x:Name="btChuyen" Content="Chuyển" Width="120" Height="30" Margin="40,10,0,5"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </GroupBox>
+
+                        <!-- GroupBox Giải mã -->
+                        <GroupBox Header="Giải mã" Width="350" Margin="5">
+                            <StackPanel Orientation="Vertical" Margin="10">
+                                <Label Content="Khóa bí mật (x)" FontWeight="Bold" Margin="0,10,0,5"/>
+                                <TextBox x:Name="So_X" Width="160" Height="50" />
+                                <Label Content="Chữ ký nhận được :" FontWeight="Bold" Margin="0,20,0,5"/>
+                                <TextBox x:Name="txt_banMaHoaNhanDuoc" Width="180" Height="80" />
+                                <StackPanel Orientation="Horizontal" Margin="0,10,0,5">
+                                    <Button x:Name="btMoFile" Content="Mở file" Width="110" Height="30"  Margin="40,10,0,5" />
+                                    <Button x:Name="btGiaiMa" Content="Thực hiện giải mã" Width="130" Height="30" IsEnabled="False"  Margin="40,10,0,5" />
+                                </StackPanel>
+                                <Label Content="Giải mã chữ ký :" FontWeight="Bold" Margin="0,10,0,5"/>
+                                <TextBox x:Name="txt_banGiaima" Width="180" Height="80" IsEnabled="False"  />
+                                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                                    <Button x:Name="btTaoBanRoMoi" Content="Làm mới" Width="110" Height="30" Margin="40,10,0,5" />
+                                    <Button x:Name="btThoat" Content="Thoát" Width="110" Height="30" Margin="40,10,0,5" />
+                                </StackPanel>
+                            </StackPanel>
+                        </GroupBox>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
